@@ -1,5 +1,16 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+Welcome to using Github.com, the framework Svelte for easier usage of HTML/CSS/JS, and github pages to host your website! 
 
+Start-up guide: 
+
+1) Grab this template repository from https://github.com/joeljih/sTemplate
+
+
+
+
+
+
+
+Below me is the default messaging from the svelte app github. You can ignore everything below me if you are not interested in setting up Svelte on your home computer.
 ---
 
 # svelte app
