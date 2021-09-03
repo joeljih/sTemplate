@@ -1,13 +1,23 @@
-Welcome to using Github.com, the framework Svelte for easier usage of HTML/CSS/JS, and github pages to host your website! 
+Welcome to using Github.com, the framework Svelte for easier usage of HTML/CSS/JS, repl.it to develop things, and github pages to host your website! 
 
-Start-up guide: 
+##Start-up guide: 
 
 1) Grab this template repository from https://github.com/joeljih/sTemplate
 
+2) Create a new repository(repo) in your github account using this template. Make sure to name your new repo you_user_name.github.io -> this is important because github pages will use this domain to launch your github pages website!
 
+3) Go to repl.com and create a new repl. When choosing what to make, chose "import from github."
 
+4) Use the repo you just created. you_user_name.github.io
+5) Your repl should now contain all the files found in the template repo.
 
+## Setting up and using node. 
 
+1) The moment you import the file from github you will notice a popup asking you what the "run" button will do in repl and something called node.js
+2) You can leave it as the default and press start. It should refresh the page. If you ever want to change what the "run" button does, you can change it in the .replit file
+3) Next you want to install the dependencies (things you need) in the SHELL section in repl.it. Write the words between the <code> block. <code> npm install </code> 
+4) There will be an installation process. Once it is finished, you are ready to use git!
+5) See the word doc for more instructions with pictures. 
 
 
 Below me is the default messaging from the svelte app github. You can ignore everything below me if you are not interested in setting up Svelte on your home computer.
