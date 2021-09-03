@@ -15,7 +15,7 @@ Welcome to using Github.com, the framework Svelte for easier usage of HTML/CSS/J
 
 1) The moment you import the file from github you will notice a popup asking you what the "run" button will do in repl and something called node.js
 2) You can leave it as the default and press start. It should refresh the page. If you ever want to change what the "run" button does, you can change it in the .replit file
-3) Next you want to install the dependencies (things you need) in the SHELL section in repl.it. Write the words between the <code> block. <code> npm install </code> 
+3) Next you want to install the dependencies (things you need) in the SHELL section in repl.it. Write the words between the code block. <code> npm install </code> 
 4) There will be an installation process. Once it is finished, you are ready to use git!
 5) See the word doc for more instructions with pictures. 
 
